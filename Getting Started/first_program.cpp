@@ -10,7 +10,7 @@ int main()
     std::cout << "Enter your favourite number (1-100): ";
     std::cin >> favourite_number;
     std::cout << "Amazing that's my favourite number too!" << std::endl;
-    std::cout << favourite_number << " really this?";
+    std::cout << favourite_number << " really this?" << std::endl;
 
     // returning 0 because the return type for the main function is integer
     return 0;
